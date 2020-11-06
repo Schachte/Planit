@@ -10,7 +10,8 @@ CLI book planner to hit your reading goal
 # Installation
 `npm i && node index.js`
 
-- Optionally, you can create a CSV file containing the books you want to read (order matters)
+- Optionally, you can create a CSV file containing the books you want to read (order matters) 
+  - There is a sample `books.csv` file in the root you can use as a reference 
 
 # Interface 
 ![pic](https://github.com/Schachte/Planit/blob/master/cli.png?raw=true)
